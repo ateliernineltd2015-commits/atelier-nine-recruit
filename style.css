@@ -104,3 +104,15 @@ img{max-width:100%;height:auto;display:block}
 [id]{scroll-margin-top:84px}
 @media(max-width:480px){.wp-block-button__link{min-width:0;width:100%;max-width:320px}}
 .h1-sub{display:block;font-size:13px;letter-spacing:.12em;color:var(--sub);margin-top:8px;font-family:inherit}
+
+/* 急募 */
+.urgent{position:relative;margin:24px 0 8px;padding:22px 22px 18px;border:2px solid #c0697a;border-radius:12px;background:#fff7f8;text-align:center}
+.urgent-tag{position:absolute;top:-13px;left:50%;transform:translateX(-50%);background:#c0697a;color:#fff;font-weight:700;font-size:13px;letter-spacing:.2em;padding:2px 16px;border-radius:999px}
+.urgent-title{font-weight:700;font-size:18px;color:#7a3a48;margin:.2em 0 .4em!important;line-height:1.6}
+.urgent-text{font-size:14px;margin:0 0 .8em!important;line-height:1.8}
+.urgent-btns{display:flex;gap:10px;justify-content:center;flex-wrap:wrap}
+.urgent-btns a{display:inline-block;padding:10px 22px;border-radius:999px;font-weight:700;font-size:14px;text-decoration:none}
+.urgent-more{background:#7a3a48;color:#fff!important}
+.urgent-line{background:var(--line);color:#fff!important}
+.job-card.hot{border-color:#c0697a;background:#fff7f8}
+.job-card .tag.hotag{background:#c0697a;margin-left:6px}
