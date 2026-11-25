@@ -103,3 +103,4 @@ img{max-width:100%;height:auto;display:block}
 .content hr.soft{border:0;height:1px;background:linear-gradient(90deg,transparent,var(--rule),transparent);margin:1.6em 0}
 [id]{scroll-margin-top:84px}
 @media(max-width:480px){.wp-block-button__link{min-width:0;width:100%;max-width:320px}}
+.h1-sub{display:block;font-size:13px;letter-spacing:.12em;color:var(--sub);margin-top:8px;font-family:inherit}
